@@ -1,8 +1,7 @@
 <h1 align="center">
  Hi there, I'm Frontend Developer 👋
 </h1>
-![cv-img](https://user-images.githubusercontent.com/103247465/236826098-5c41ce78-e366-47e9-a4c1-ba80557c34fe.png)
-
+[CV.pdf](https://github.com/DaniyarKulov/DaniyarKulov/files/11628107/CV.pdf)
 ## 🌐 Socials:
  <a href="https://t.me/DaniyarKul"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram link" /></a>
   <a href="mailto:kulovdaniyar77@gmail.com
