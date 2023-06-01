@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyarKulov&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=radical&margin-w=20)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirisimonov)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
