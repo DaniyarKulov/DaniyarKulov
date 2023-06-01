@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/daniyar-kulov-6b069323a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin link" /></a>
 </div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=daniyarkulov)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirisimonov)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirisimonov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniyarkulov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyarkulov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div id="skills">
   <div id="stack">
     <h4>Languages and Tools:</h4>
