@@ -9,7 +9,6 @@
 </div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 <div id="skills">
   <div id="stack">
     <h4>Languages and Tools:</h4>
