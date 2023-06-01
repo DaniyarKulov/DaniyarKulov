@@ -7,8 +7,7 @@
 "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail link" /></a>
   <a href="https://www.linkedin.com/in/daniyar-kulov-6b069323a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin link" /></a>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=daniyarkulov&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <div id="skills">
   <div id="stack">
     <h4>Languages and Tools:</h4>
