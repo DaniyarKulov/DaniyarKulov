@@ -19,9 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyarKulov&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=radical&margin-w=20)
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaniyarKulov)](https://github.com/ryo-ma/github-profile-trophy)
-
+![](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=radical&title=Repositories,Commits,Followers,PullRequest,MultipleLang&margin-w=20)
 <div id="react-projects">
   <h4>Projects on ReactJs and Redux:</h4>
   - RS-Trello - https://github.com/DaniyarKulov/RS-Trello/pull/8
