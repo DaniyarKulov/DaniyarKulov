@@ -1,8 +1,6 @@
 <h1 align="center">
  Hi there, I'm Frontend Developer 👋
 </h1>
-[CV.pdf](https://github.com/DaniyarKulov/DaniyarKulov/files/11628107/CV.pdf)
-![image](https://github.com/DaniyarKulov/DaniyarKulov/assets/91828656/8051e2f9-570a-4e94-98f6-c8751d6d918c)
 
 ## 🌐 Socials:
  <a href="https://t.me/DaniyarKul"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram link" /></a>
@@ -19,6 +17,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+[CV.pdf](https://github.com/DaniyarKulov/DaniyarKulov/files/11628107/CV.pdf)
+
 
 <div id="react-projects">
   <h4>Projects on ReactJs and Redux:</h4>
