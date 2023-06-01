@@ -2,6 +2,9 @@
  Hi there, I'm Frontend Developer 👋
 </h1>
 
+## CV:
+![image](https://github.com/DaniyarKulov/DaniyarKulov/assets/91828656/1f2bdf3d-5a5c-443b-9e95-2e95e05d7787)
+
 ## 🌐 Socials:
  <a href="https://t.me/DaniyarKul"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram link" /></a>
   <a href="mailto:kulovdaniyar77@gmail.com
@@ -18,7 +21,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[CV.pdf](https://github.com/DaniyarKulov/DaniyarKulov/files/11628107/CV.pdf)
 
 
 <div id="react-projects">
