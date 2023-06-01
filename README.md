@@ -2,7 +2,7 @@
  Hi there, I'm Frontend Developer 👋
 </h1>
 
-## CV:
+##
 ![image](https://github.com/DaniyarKulov/DaniyarKulov/assets/91828656/1f2bdf3d-5a5c-443b-9e95-2e95e05d7787)
 
 ## 🌐 Socials:
