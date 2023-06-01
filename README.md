@@ -2,24 +2,6 @@
  Hi there, I'm Frontend Developer 👋
 </h1>
 
-<div id="react-projects">
-  <h4>Projects on ReactJs and Redux:</h4>
-  - RS-Trello - https://github.com/DaniyarKulov/RS-Trello/pull/8
-</div>
-
-<div id="vanilla-projects">
-  <h4>Projects on Vanilla Ts/Js:</h4>
-  - Song-Bird - https://daniyarkulov.github.io/Quiz-song/songbird/ <br>
-  - Shelter - https://github.com/DaniyarKulov/RS-Trello/pull/8
-  <br>
-  - Online-Zoo - https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/online-zoo/
-  <br>
-  - Online-Store - https://github.com/kbakaeva/online-shop/pull/20
-  <br>
-  - Пятнашки - https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/puzzle/
-</div>
-<br>
-
 ## 🌐 Socials:
  <a href="https://t.me/DaniyarKul"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram link" /></a>
   <a href="mailto:kulovdaniyar77@gmail.com
@@ -39,3 +21,21 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
+<div id="react-projects">
+  <h4>Projects on ReactJs and Redux:</h4>
+  - RS-Trello - https://github.com/DaniyarKulov/RS-Trello/pull/8
+</div>
+
+<div id="vanilla-projects">
+  <h4>Projects on Vanilla Ts/Js:</h4>
+  - Song-Bird - https://daniyarkulov.github.io/Quiz-song/songbird/ <br>
+  - Shelter - https://github.com/DaniyarKulov/RS-Trello/pull/8
+  <br>
+  - Online-Zoo - https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/online-zoo/
+  <br>
+  - Online-Store - https://github.com/kbakaeva/online-shop/pull/20
+  <br>
+  - Пятнашки - https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/puzzle/
+</div>
+<br>
