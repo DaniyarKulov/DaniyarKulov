@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=radical&margin-w=20)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=radical&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div id="react-projects">
   <h4>Projects on ReactJs and Redux:</h4>
