@@ -3,7 +3,7 @@
 </h1>
 
 ##
-![image](https://github.com/DaniyarKulov/DaniyarKulov/assets/91828656/1f2bdf3d-5a5c-443b-9e95-2e95e05d7787)
+![image](https://github.com/DaniyarKulov/DaniyarKulov/assets/91828656/7f8008e4-b39d-4d13-a760-d22b7f5e073e)
 
 ## 🌐 Socials:
  <a href="https://t.me/DaniyarKul"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram link" /></a>
