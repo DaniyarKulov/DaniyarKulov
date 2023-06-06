@@ -20,6 +20,15 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=radical&title=Repositories,Commits,Followers,PullRequest,MultipleLang&margin-w=20)
+
+
+<div id="react-projects">
+  <h4>Projects on Angular</h4>
+  - Airways - https://github.com/DaniyarKulov/airways-angular
+  - Youtube - 
+ 
+</div>
+
 <div id="react-projects">
   <h4>Projects on ReactJs and Redux:</h4>
   - RS-Trello - https://github.com/DaniyarKulov/RS-Trello/pull/8
