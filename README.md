@@ -24,7 +24,8 @@
 
 <div id="react-projects">
   <h4>Projects on Angular</h4>
-  - Airways - https://github.com/DaniyarKulov/airways-angular
+  - Airways - https://github.com/DaniyarKulov/airways-angular  
+  <br>
   - Youtube - 
  
 </div>
