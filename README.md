@@ -26,7 +26,7 @@
   <h4>Projects on Angular</h4>
   - Airways - https://github.com/DaniyarKulov/airways-angular  
   <br>
-  - Youtube - 
+  - Youtube - https://github.com/DaniyarKulov/youtube/tree/develop
  
 </div>
 
