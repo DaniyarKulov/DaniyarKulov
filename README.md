@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi there, I'm Front-end Developer 👋
+ Hi there, I'm Daniyar 👋
 </h1>
 
 ##
