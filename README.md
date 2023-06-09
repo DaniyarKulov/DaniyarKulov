@@ -3,7 +3,7 @@
 </h1>
 
 ![image](https://github.com/DaniyarKulov/DaniyarKulov/assets/91828656/01e866fb-acbe-4679-8014-b57f7fa90716)
-
+![cv-img]([https://user-images.githubusercontent.com/103247465/236826098-5c41ce78-e366-47e9-a4c1-ba80557c34fe.png](https://www.canva.com/design/DAFj7O7VUZc/uEZj3ue9QPyurDd2POEDzw/view?utm_content=DAFj7O7VUZc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview))
 
 ## 🌐 Socials:
  <a href="https://t.me/DaniyarKul"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram link" /></a>
