@@ -31,7 +31,7 @@
 </div>
 
 <div id="react-projects">
-  <h4>Projects on ReactJs and Redux:</h4>
+  <h4>Projects on React and Redux:</h4>
   - RS-Trello - https://github.com/DaniyarKulov/RS-Trello/pull/8
 </div>
 
