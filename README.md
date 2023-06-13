@@ -2,7 +2,7 @@
  Hi there, I'm Daniyar 👋
 </h1>
 
-![image](https://github.com/DaniyarKulov/DaniyarKulov/assets/91828656/e88d2d85-093d-4f53-9d54-657ecdee3a0d)
+![image](https://github.com/DaniyarKulov/DaniyarKulov/assets/91828656/5a2d8cd5-2005-4b4f-a9b9-ca4d4b7b5f12)
 
 
 ## 🌐 Socials:
