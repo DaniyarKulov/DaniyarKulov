@@ -22,28 +22,25 @@
 ![](https://github-profile-trophy.vercel.app/?username=DaniyarKulov&theme=radical&title=Repositories,Commits,Followers,PullRequest,MultipleLang&margin-w=20)
 
 
-<div id="react-projects">
   <h4>Projects on Angular</h4>
-  - Airways - https://github.com/DaniyarKulov/airways-angular  
+  - [Airways](https://github.com/DaniyarKulov/airways-angular)
   <br>
-  - Youtube - https://github.com/DaniyarKulov/youtube/tree/develop
- 
-</div>
+  - [Youtube](https://github.com/DaniyarKulov/youtube/tree/develop)
 
-<div id="react-projects">
+
   <h4>Projects on React and Redux:</h4>
-  - RS-Trello - https://github.com/DaniyarKulov/RS-Trello/pull/8
-</div>
+  - [RS-Trello](https://github.com/DaniyarKulov/RS-Trello/pull/8)
+
 
   <h4>Projects on Vanilla Ts/Js:</h4>
   
   - [Shelter](https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q1/shelter/)
-   <br>
+
   - [Online-Zoo](https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/online-zoo/)
-  <br>
+
   - [Пятнашки](https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/puzzle/)
- <br>
+
   - [Song-Bird](https://daniyarkulov.github.io/Quiz-song/songbird/)
-  <br>
+
   - [Online-Store](https://github.com/kbakaeva/online-shop/pull/20)
 
