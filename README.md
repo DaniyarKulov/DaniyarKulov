@@ -23,14 +23,13 @@
 
 
   <h4>Projects on Angular</h4>
+  
   - [Airways](https://github.com/DaniyarKulov/airways-angular)
-  <br>
   - [Youtube](https://github.com/DaniyarKulov/youtube/tree/develop)
 
-
   <h4>Projects on React and Redux:</h4>
+  
   - [RS-Trello](https://github.com/DaniyarKulov/RS-Trello/pull/8)
-
 
   <h4>Projects on Vanilla Ts/Js:</h4>
   
