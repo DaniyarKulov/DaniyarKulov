@@ -35,15 +35,15 @@
   - RS-Trello - https://github.com/DaniyarKulov/RS-Trello/pull/8
 </div>
 
-<div id="vanilla-projects">
   <h4>Projects on Vanilla Ts/Js:</h4>
-  - Song-Bird - https://daniyarkulov.github.io/Quiz-song/songbird/ <br>
- [Shelter](https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q1/shelter)
+  
+  - [Shelter](https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q1/shelter/)
+   <br>
+  - [Online-Zoo](https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/online-zoo/)
   <br>
-  - Online-Zoo - https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/online-zoo/
+  - [Пятнашки](https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/puzzle/)
+ <br>
+  - [Song-Bird](https://daniyarkulov.github.io/Quiz-song/songbird/)
   <br>
-  - Online-Store - https://github.com/kbakaeva/online-shop/pull/20
-  <br>
-  - Пятнашки - https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/puzzle/
-</div>
-<br>
+  - [Online-Store](https://github.com/kbakaeva/online-shop/pull/20)
+
