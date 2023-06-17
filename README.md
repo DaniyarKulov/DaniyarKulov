@@ -38,7 +38,7 @@
 <div id="vanilla-projects">
   <h4>Projects on Vanilla Ts/Js:</h4>
   - Song-Bird - https://daniyarkulov.github.io/Quiz-song/songbird/ <br>
-  - [Shelter](https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q1/shelter/)
+ [Shelter](https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q1/shelter)
   <br>
   - Online-Zoo - https://rolling-scopes-school.github.io/daniyarkulov-JSFE2022Q3/online-zoo/
   <br>
