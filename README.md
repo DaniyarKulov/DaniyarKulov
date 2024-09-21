@@ -2,10 +2,6 @@
  Hi there, I'm Daniyar 👋
 </h1>
 
-![image](https://github.com/DaniyarKulov/DaniyarKulov/assets/91828656/6d82c4cc-9382-4685-b3a6-3d1f79c8a35f)
-![image](https://github.com/DaniyarKulov/DaniyarKulov/assets/91828656/f98d6e9f-b7be-4e7f-bae6-3a6b87eb9658)
-
-
 ## 🌐 Socials:
  <a href="https://t.me/DaniyarKul"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram link" /></a>
   <a href="mailto:kulovdaniyar77@gmail.com
